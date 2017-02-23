@@ -1,3 +1,10 @@
-# HelloWorldRepo
-Sample to check Git functionality
-Author : Anand Kumar Roy
+public class HelloWorld{
+
+public static void main(String[] args){
+	int x = 1;
+	int y = 2;
+	System.out.println("x : " + x + " y : "+y);
+
+}
+
+}
