@@ -1,3 +1,3 @@
 # HelloWorldRepo
 Sample to check Git functionality
-Author : anand roy
+Author : Anand Roy
